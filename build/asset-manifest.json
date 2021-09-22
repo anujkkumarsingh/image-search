@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/anujkkumarsingh/image_search.git/static/css/main.ac12f6ca.chunk.css",
+    "main.js": "/anujkkumarsingh/image_search.git/static/js/main.7c27a935.chunk.js",
+    "main.js.map": "/anujkkumarsingh/image_search.git/static/js/main.7c27a935.chunk.js.map",
+    "runtime-main.js": "/anujkkumarsingh/image_search.git/static/js/runtime-main.dd19b0c4.js",
+    "runtime-main.js.map": "/anujkkumarsingh/image_search.git/static/js/runtime-main.dd19b0c4.js.map",
+    "static/css/2.4be38407.chunk.css": "/anujkkumarsingh/image_search.git/static/css/2.4be38407.chunk.css",
+    "static/js/2.b9b03694.chunk.js": "/anujkkumarsingh/image_search.git/static/js/2.b9b03694.chunk.js",
+    "static/js/2.b9b03694.chunk.js.map": "/anujkkumarsingh/image_search.git/static/js/2.b9b03694.chunk.js.map",
+    "static/js/3.2e24a906.chunk.js": "/anujkkumarsingh/image_search.git/static/js/3.2e24a906.chunk.js",
+    "static/js/3.2e24a906.chunk.js.map": "/anujkkumarsingh/image_search.git/static/js/3.2e24a906.chunk.js.map",
+    "index.html": "/anujkkumarsingh/image_search.git/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/anujkkumarsingh/image_search.git/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.ac12f6ca.chunk.css.map": "/anujkkumarsingh/image_search.git/static/css/main.ac12f6ca.chunk.css.map",
+    "static/js/2.b9b03694.chunk.js.LICENSE.txt": "/anujkkumarsingh/image_search.git/static/js/2.b9b03694.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd19b0c4.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.b9b03694.chunk.js",
+    "static/css/main.ac12f6ca.chunk.css",
+    "static/js/main.7c27a935.chunk.js"
+  ]
+}
